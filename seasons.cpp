@@ -1,4 +1,3 @@
 winter 
 summer
-raing
 spring
